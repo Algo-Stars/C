@@ -1,6 +1,6 @@
-# Algo Stars - Python Repository
+# Algo Stars - CPP Repository
 
-### Welcome to the Python repository of Algo Stars! 🐍
+### Welcome to the CPP repository of Algo Stars! 🐍
 We will update new problem statements on starting of the each week. Follow the readme to know how to contribute to this repository.
 
 ## How to Collaborate
@@ -9,7 +9,7 @@ Contributing to Algo Stars is straightforward. Follow the steps below:
 
 ### Forking the Repository
 
-1. Navigate to the repository you want to contribute to (e.g., `Algo-Stars/Python`).
+1. Navigate to the repository you want to contribute to (e.g., `Algo-Stars/CPP`).
 2. Click on the "Fork" button in the top right corner of the page.
    - This creates a copy of the repository in your GitHub account.
 
@@ -19,7 +19,7 @@ Contributing to Algo Stars is straightforward. Follow the steps below:
 2. Open your terminal and run the following command, replacing `<your-username>` with your GitHub username:
 
    ```bash
-   git clone https://github.com/<your-username>/Python.git
+   git clone https://github.com/<your-username>/CPP.git
    ```
 
 ### Making Changes
@@ -33,7 +33,7 @@ Contributing to Algo Stars is straightforward. Follow the steps below:
 1. In the terminal, navigate to your cloned repository:
 
    ```bash
-   cd Python
+   cd CPP
    ```
 
 2. Add your changes and commit:
@@ -54,8 +54,8 @@ Contributing to Algo Stars is straightforward. Follow the steps below:
 1. Visit your forked repository on GitHub.
 2. Click on the "Pull Requests" tab.
 3. Click the "New Pull Request" button.
-4. Set the base repository to `Algo-Stars/Python` and the base branch to `main`.
-5. Set the head repository to `<your-username>/Python` and the compare branch to `main`.
+4. Set the base repository to `Algo-Stars/CPP` and the base branch to `main`.
+5. Set the head repository to `<your-username>/CPP` and the compare branch to `main`.
 6. Click the "Create Pull Request" button.
 7. Add a title and description, then click "Create Pull Request" again.
 
