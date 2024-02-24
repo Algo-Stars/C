@@ -6,7 +6,7 @@ Welcome to the Roadmap for Learning C++ from YouTube! This guide is designed to 
 
 Before diving into the tutorials, it's essential to have a basic understanding of programming concepts. If you're completely new to programming, consider starting with introductory courses or tutorials on programming fundamentals.
 
-## Youtube Tutorial's Overview (Some Good Educators) 📒
+## Youtube Tutorials Overview (Some Good Educators) 📒
 ### You can follow any one tutorial all are beginner-friendly 🚀
 1. [ Lean C++ from CodeWithHarry (Hindi)](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)
 2. [ Learn C++ from Love Babbar (Hindi)](https://www.youtube.com/playlist?list=PLDzeHZWIZsToJ9zSl4-5BfOBzAR0fm--f)
